@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "twQFxvDrpS5qyCwc5UVXhQM1L9DpZsWtCtgI+wgL8fnnAEjAJG0sUCrMnOtLnqOe0bgoWYLwYshVBmXeXiOyxw==",
+  "success": true,
+  "projectFilePath": "E:\\FINAL read status membership - KARTIKA\\Homepage\\Homepage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karti\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\karti\\.nuget\\packages\\npgsql\\8.0.0-preview.4\\npgsql.8.0.0-preview.4.nupkg.sha512",
+    "C:\\Users\\karti\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

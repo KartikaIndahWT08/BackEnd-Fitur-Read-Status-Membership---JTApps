@@ -1,0 +1,134 @@
+E:\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.exe
+E:\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.deps.json
+E:\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.runtimeconfig.json
+E:\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.dll
+E:\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.pdb
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.AssemblyReference.cache
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.Form1.resources
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.Properties.Resources.resources
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.GenerateResource.cache
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfoInputs.cache
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfo.cs
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CoreCompileInputs.cache
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.dll
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\refint\Homepage.dll
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.pdb
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.genruntimeconfig.cache
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\ref\Homepage.dll
+E:\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.Form2.resources
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.AssemblyReference.cache
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.Form1.resources
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.Form2.resources
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Fitur_Profile_Account.membership.resources
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.Properties.Resources.resources
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.GenerateResource.cache
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfoInputs.cache
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfo.cs
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CoreCompileInputs.cache
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.dll
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\refint\Homepage.dll
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.pdb
+D:\downloadddddd\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.exe
+D:\downloadddddd\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.deps.json
+D:\downloadddddd\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.runtimeconfig.json
+D:\downloadddddd\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.dll
+D:\downloadddddd\Homepage\Homepage\bin\Debug\net6.0-windows\Homepage.pdb
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.genruntimeconfig.cache
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\ref\Homepage.dll
+D:\downloadddddd\Homepage\Homepage\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\downloadddddd\Homepage\Homepage\bin\Debug\net6.0-windows\Npgsql.dll
+D:\downloadddddd\Homepage\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CopyComplete
+D:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.exe
+D:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.deps.json
+D:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.runtimeconfig.json
+D:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.dll
+D:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.pdb
+D:\read status membership\Homepage\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\read status membership\Homepage\bin\Debug\net6.0-windows\Npgsql.dll
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.AssemblyReference.cache
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Form1.resources
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Form2.resources
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Fitur_Profile_Account.membership.resources
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Properties.Resources.resources
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.GenerateResource.cache
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.GeneratedMSBuildEditorConfig.editorconfig
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfoInputs.cache
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfo.cs
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CoreCompileInputs.cache
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CopyComplete
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.dll
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\refint\Homepage.dll
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.pdb
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.genruntimeconfig.cache
+D:\read status membership\Homepage\obj\Debug\net6.0-windows\ref\Homepage.dll
+E:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.exe
+E:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.deps.json
+E:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.runtimeconfig.json
+E:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.dll
+E:\read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.pdb
+E:\read status membership\Homepage\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\read status membership\Homepage\bin\Debug\net6.0-windows\Npgsql.dll
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.AssemblyReference.cache
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Form1.resources
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Form2.resources
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Fitur_Profile_Account.membership.resources
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Properties.Resources.resources
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.GenerateResource.cache
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.GeneratedMSBuildEditorConfig.editorconfig
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfoInputs.cache
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfo.cs
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CoreCompileInputs.cache
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CopyComplete
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.dll
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\refint\Homepage.dll
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.pdb
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.genruntimeconfig.cache
+E:\read status membership\Homepage\obj\Debug\net6.0-windows\ref\Homepage.dll
+E:\FIXXXXXXX read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.exe
+E:\FIXXXXXXX read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.deps.json
+E:\FIXXXXXXX read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.runtimeconfig.json
+E:\FIXXXXXXX read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.dll
+E:\FIXXXXXXX read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.pdb
+E:\FIXXXXXXX read status membership\Homepage\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FIXXXXXXX read status membership\Homepage\bin\Debug\net6.0-windows\Npgsql.dll
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.AssemblyReference.cache
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Form1.resources
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Form2.resources
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Fitur_Profile_Account.membership.resources
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Properties.Resources.resources
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.GenerateResource.cache
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.GeneratedMSBuildEditorConfig.editorconfig
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfoInputs.cache
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfo.cs
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CoreCompileInputs.cache
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CopyComplete
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.dll
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\refint\Homepage.dll
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.pdb
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.genruntimeconfig.cache
+E:\FIXXXXXXX read status membership\Homepage\obj\Debug\net6.0-windows\ref\Homepage.dll
+E:\FINAL read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.exe
+E:\FINAL read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.deps.json
+E:\FINAL read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.runtimeconfig.json
+E:\FINAL read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.dll
+E:\FINAL read status membership\Homepage\bin\Debug\net6.0-windows\Homepage.pdb
+E:\FINAL read status membership\Homepage\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FINAL read status membership\Homepage\bin\Debug\net6.0-windows\Npgsql.dll
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.AssemblyReference.cache
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Form1.resources
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Form2.resources
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Fitur_Profile_Account.membership.resources
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.Properties.Resources.resources
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.GenerateResource.cache
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.GeneratedMSBuildEditorConfig.editorconfig
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfoInputs.cache
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.AssemblyInfo.cs
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CoreCompileInputs.cache
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.csproj.CopyComplete
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.dll
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\refint\Homepage.dll
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.pdb
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\Homepage.genruntimeconfig.cache
+E:\FINAL read status membership\Homepage\obj\Debug\net6.0-windows\ref\Homepage.dll
